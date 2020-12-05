@@ -1,2 +1,2 @@
-# progithubmaster.github.io
+# Miner
 Аля первый сайт 
